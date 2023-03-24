@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "KarsTS"]
+	path = KarsTS
+	url = https://github.com/cran/KarsTS
+	shallow = true
+	registered = true
